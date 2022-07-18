@@ -1,0 +1,24 @@
+{
+  "devDependencies": {
+    "crypto-js": "^4.1.1",
+    "elliptic": "^6.5.4"
+  },
+  "name": "slxc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "bn.js": "^4.12.0",
+    "hmac-drbg": "^1.0.1",
+    "brorand": "^1.1.0",
+    "hash.js": "^1.1.7",
+    "minimalistic-assert": "^1.0.1",
+    "inherits": "^2.0.4",
+    "minimalistic-crypto-utils": "^1.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
